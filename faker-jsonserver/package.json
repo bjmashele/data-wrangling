@@ -1,0 +1,15 @@
+{
+  "name": "faker-jsonserver",
+  "version": "1.0.0",
+  "description": "A small server using Faker and JsonServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bongani Mashele",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "uuid": "^3.3.3"
+  }
+}

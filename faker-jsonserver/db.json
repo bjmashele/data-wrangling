@@ -1,0 +1,14 @@
+{
+    "books": [
+        {
+            "title": "Title 1",
+            "author": "Author 1",
+            "progress": 0
+        },
+        {
+            "title": "Title 2",
+            "author": "Author 2",
+            "progress": 0
+        }
+    ]
+}
